@@ -26,7 +26,7 @@
   --banner-bg: #262836;
   --neutral-100: #fff;
   --switch-bg: #2196F3;
-  --input-active: linear-gradient(to right, #378FE6, #3EDA82);
+  --input-active: linear-gradient(to right, #3EDA82, #378FE6);
 }
 
 
@@ -246,7 +246,7 @@ nav p {
   border-radius: 0 5px;
 }
 
-.big-card h3 {
+.big-card h2 {
   letter-spacing: 1px;
   margin:0;
   text-transform: uppercase;
